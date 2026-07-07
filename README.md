@@ -79,7 +79,7 @@ Swagger documentation:
 http://127.0.0.1:8000/docs
 
 ## 📁 Project Structure
-'''
+```
 traffic-demand-api/
 │── app.py
 │── model.pkl
@@ -87,7 +87,7 @@ traffic-demand-api/
 │── requirements.txt
 │── README.md
 └── ...
-'''
+```
 
 ## 🎯 Use Cases
 Smart city traffic analytics
